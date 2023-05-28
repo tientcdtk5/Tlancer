@@ -30,3 +30,13 @@
 .nav-form-1{
     margin-top: 0;
 }
+.blog-most{
+    text-decoration: none;
+    color: black;
+}
+.blog-list-most{
+    list-style: auto;
+}
+.blog-most:hover{
+    color: rgb(51, 51, 129);
+}
